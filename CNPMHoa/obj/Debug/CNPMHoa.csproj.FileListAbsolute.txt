@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.DangNhap.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.HeThong.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.QLNhanVien.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\bin\Debug\CNPMHoa.exe.config
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\bin\Debug\CNPMHoa.exe
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\bin\Debug\CNPMHoa.pdb
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.exe
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.pdb
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.Hoa.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.Khachhang.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.BCTK.resources
+C:\Users\ASUS\source\repos\CNPMHoa\CNPMHoa\obj\Debug\CNPMHoa.Hoadon.resources
